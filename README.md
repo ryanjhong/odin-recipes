@@ -1,1 +1,1 @@
-This project is my first repos attempt at learning html
+This website consists of a main index page which has links to recipes of some delicious food.
